@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=077A7D&center=true&vCenter=true&width=1000&height=50&lines=Physical+Security+→+Cybersecurity;Home+Lab+Builder;Documenting+My+Learning+Journey" alt="Aspiring Cybersecurity Analyst" />
 </p>
 
-<p align="left">
-font=Merriweather&size=48&duration=2500&pause=9999&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=About+me" alt="About me" />
-</p>
+```merriweather
+About me
+```
 
 ```yaml
 name: Caitlin Gillum
