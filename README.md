@@ -83,6 +83,24 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 
 ---
 
+![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gillum14&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="Caitlin's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gillum14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Caitlin's Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gillum14&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Caitlin's GitHub Streak" />
+
+</div>
+
+> **Note:** Top languages reflects public repo content, not overall skill level.
+
 ![Connect With Me](https://img.shields.io/badge/Connect%20With%20Me-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
 
 <p align="left">
