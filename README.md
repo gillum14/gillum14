@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/caitlinirvin93">
-    <img src="https://img.shields.io/badge/TryHackMe-caitlinirvin93-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  <a href="https://tryhackme.com/p/gillum14">
+    <img src="https://img.shields.io/badge/TryHackMe-gillum14-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
     <a href="https://www.linkedin.com/in/caitlin-gillum-23b579421">
     <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
@@ -109,7 +109,7 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
   <a href="https://www.linkedin.com/in/caitlin-gillum-23b579421">
     <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="https://tryhackme.com/p/caitlinirvin93">
+  <a href="https://tryhackme.com/p/gillum14">
     <img src="https://img.shields.io/badge/TryHackMe-View%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
 </p>
