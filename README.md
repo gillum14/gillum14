@@ -10,8 +10,8 @@
   <a href="https://tryhackme.com/p/gillum14">
     <img src="https://img.shields.io/badge/TryHackMe-gillum14-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
-    <a href="https://www.linkedin.com/in/caitlin-gillum-23b579421">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <a href="https://www.linkedin.com/in/caitlingillum">
+    <img src="https://img.shields.io/badge/LinkedIn-caitlingillum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -106,7 +106,7 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 ![Connect With Me](https://img.shields.io/badge/Connect%20With%20Me-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/caitlin-gillum-23b579421">
+  <a href="https://www.linkedin.com/in/caitlingillum">
     <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://tryhackme.com/p/gillum14">
