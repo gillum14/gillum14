@@ -57,7 +57,7 @@
     <td>Google Cybersecurity Professional Certificate</td>
   </tr>
   <tr>
-    <td><strong>Currently Learning</strong></td>
+    <td><strong>Currently Pursuing</strong></td>
     <td>CompTIA Security+, CompTIA Network+, TryHackMe SOC Level 1</td>
   </tr>
 </table>
