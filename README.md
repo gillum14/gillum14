@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td><strong>Certifications</strong></td>
-    <td>Google Cybersecurity Certificate</td>
+    <td>Google Cybersecurity Professional Certificate</td>
   </tr>
   <tr>
     <td><strong>Currently Learning</strong></td>
@@ -68,7 +68,7 @@ After serving in the military and working in emergency services and public safet
 
 I’m now transitioning into cybersecurity, where I’m applying that same security-first mindset to protecting systems, networks, and data. My background in physical security, public safety, and emergency response gives me a practical foundation for understanding risk, situational awareness, and incident response.
 
-I use this GitHub to document my learning, home lab projects, cybersecurity notes, and certification progress as I build toward a career in security operations and cyber defense.
+I use this GitHub as a living portfolio to document my home lab, cybersecurity projects, technical notes, and certification journey as I transition into cybersecurity.
 
 ---
 
@@ -77,7 +77,7 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 - Building hands-on cybersecurity labs
 - Practicing Linux, networking, and security fundamentals
 - Studying for CompTIA Security+
-- Completing the Google Cybersecurity Certificate
+- Building portfolio projects from the Google Cybersecurity Professional Certificate
 - Working through TryHackMe SOC Level 1 learning paths
 - Documenting projects, notes, and lessons learned
 
@@ -87,7 +87,7 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 
 <p align="left">
   <a href="https://coursera.org/share/c60f231e6c7e69baa8b1d791bc6075e3">
-  <img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity Certificate on Coursera" />
+  <img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Professional%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity Certificate on Coursera" />
 </a>
 </p>
 
@@ -101,14 +101,57 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 
 ---
 
+<div align="left">
+
+![Featured Projects](https://img.shields.io/badge/Featured%20Projects-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Google Cybersecurity Certificate Portfolio</h3>
+      <p>Complete coursework, labs, portfolio activities, and notes from Google's Professional Certificate.</p>
+      <a href="https://github.com/gillum14/Google-Cybersecurity-Certificate-Portfolio.git">
+        <img src="https://img.shields.io/badge/View%20Project-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF" alt="View Google Cybersecurity Certificate Portfolio" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Security Home Lab</h3>
+      <p>Hands-on lab documenting installations, configurations, and networking experiments.</p>
+      <a href="https://github.com/gillum14/cybersecurity-home-lab.git">
+        <img src="https://img.shields.io/badge/View%20Project-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF" alt="View Security Home Lab" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>TryHackMe Portfolio</h3>
+      <p>Writeups and notes from completed rooms focusing on SOC and Blue Team skills.</p>
+      <a href="https://github.com/gillum14/Tryhackme-Portfolio.git">
+        <img src="https://img.shields.io/badge/View%20Project-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF" alt="View TryHackMe Writeups" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>CompTIA Security+</h3>
+      <p>Study notes and labs while preparing for the CompTIA Security+ certification.</p>
+      <a href="https://github.com/gillum14/CompTIA-Security--.git">
+        <img src="https://img.shields.io/badge/View%20Project-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF" alt="View Security+ Notes" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ![Home Lab & Projects](https://img.shields.io/badge/Home%20Lab%20%26%20Projects-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
 
 | Project | Description | Status |
 |---|---|---|
-| Security Home Lab | Building a hands-on lab environment for cybersecurity practice | In Progress |
-| Linux Fundamentals | Practicing command line, permissions, logs, and system navigation | In Progress |
-| Network Security Notes | Documenting networking, ports, protocols, and common attack paths | In Progress |
-| TryHackMe Writeups | Notes and reflections from completed rooms and paths | In Progress |
+| Security Home Lab | MacOS security lab featuring Wireshark, Git, VS Code, networking tools, and documentation | In Progress |
+| Linux Fundamentals | Linux administration, permissions, processes, logging, and CLI exercises | In Progress |
+| Network Security | Networking concepts, protocols, packet analysis, and security fundamentals | In Progress |
+| TryHackMe Writeups | Documented walkthroughs, lessons learned, and SOC analyst exercises | In Progress |
 
 ---
 
