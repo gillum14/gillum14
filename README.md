@@ -7,25 +7,62 @@
 </p>
 
 <p align="center">
+  <a href="mailto:caitlingillum93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
+  </a>
+  <a href="https://www.credly.com/users/caitlin-gillum">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=FF6B00" alt="Credly" />
+  </a>
+  <a href="https://github.com/gillum14">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+</a>
   <a href="https://tryhackme.com/p/gillum14">
-    <img src="https://img.shields.io/badge/TryHackMe-gillum14-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=212C42" alt="TryHackMe" />
   </a>
-    <a href="https://www.linkedin.com/in/caitlingillum">
-    <img src="https://img.shields.io/badge/LinkedIn-caitlingillum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <a href="https://www.linkedin.com/in/caitlingillum">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gillum14&style=for-the-badge&color=077A7D" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%2010%25%20Global-A20606?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Top 10% Global" />
 </p>
 
 ---
 
 ![About Me](https://img.shields.io/badge/About%20Me-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
 
-| | |
-|---|---|
-| **Name** | Caitlin Gillum |
-| **Background** | Military, emergency services, and public safety |
-| **Education** | BA in Criminal Justice |
-| **Focus** | Cybersecurity, threat detection, security operations, and home labs |
-| **Currently Learning** | Google Cybersecurity Certificate, CompTIA Security+, TryHackMe SOC Level 1 |
+<div align="center">
+
+<table>
+  <tr>
+    <td><strong>Name</strong></td>
+    <td>Caitlin Gillum</td>
+  </tr>
+  <tr>
+    <td><strong>Background</strong></td>
+    <td>Military, emergency services, and public safety</td>
+  </tr>
+  <tr>
+    <td><strong>Education</strong></td>
+    <td>BA in Criminal Justice</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Cybersecurity, threat detection, security operations, and home labs</td>
+  </tr>
+  <tr>
+    <td><strong>Certifications</strong></td>
+    <td>Google Cybersecurity Certificate</td>
+  </tr>
+  <tr>
+    <td><strong>Currently Learning</strong></td>
+    <td>CompTIA Security+, CompTIA Network+, TryHackMe SOC Level 1</td>
+  </tr>
+</table>
+
+</div>
 
 After serving in the military and working in emergency services and public safety, I developed a strong passion for protecting people, solving problems under pressure, and staying calm in high-stakes environments.
 
@@ -49,25 +86,14 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 ![Certifications & Learning](https://img.shields.io/badge/Certifications%20%26%20Learning-7AE2CF?style=for-the-badge&labelColor=0B0F14&color=7AE2CF)
 
 <p align="left">
-  <a href="https://coursera.org/share/57c6f6d1b9a47e536cc518bbd3770813">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate%201-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate 1" />
-  </a>
-  <a href="https://coursera.org/share/8621146d671e9dd8d6329ab61e578c79">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate%202-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate 2" />
-  </a>
-  <a href="https://coursera.org/share/a1681238cac2f530c6410b0364ae7925">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate%203-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate 3" />
-  </a>
-  <a href="https://coursera.org/share/7a8dc3fb2b7a74b730236883a2d2e4b3">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate%204-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate 4" />
-  </a>
-  <a href="https://coursera.org/share/f89b0e2ef5cbad5c7db0dd81603cf545">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate%205-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate 5" />
-  </a>
+  <a href="https://coursera.org/share/c60f231e6c7e69baa8b1d791bc6075e3">
+  <img src="https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity Certificate on Coursera" />
+</a>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Studying-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Studying" />
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-Studying-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+ Studying" />
   <a href="https://tryhackme.com/p/caitlinirvin93">
     <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" />
   </a>
@@ -107,9 +133,9 @@ I use this GitHub to document my learning, home lab projects, cybersecurity note
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caitlingillum">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://tryhackme.com/p/gillum14">
-    <img src="https://img.shields.io/badge/TryHackMe-View%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+  <a href="mailto:caitlingillum93@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
   </a>
 </p>
